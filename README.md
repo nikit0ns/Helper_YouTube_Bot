@@ -2,7 +2,7 @@
 
 - :floppy_disk: The Telegram Bot to download videos from YouTube.
 - :books: You can find information about the video from YouTube.
-- :open_file_folder:The pytube library is also included here
+- :pencil: The pytube library is also included here
 - :open_file_folder: The bot has two commands: `/start`, `/help`.
 
 ---
