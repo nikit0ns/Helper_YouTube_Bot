@@ -1,5 +1,4 @@
 # Helper_YouTube_Bot - Telegram Bot
-# Your_Personal_Information_Bot - Telegram Bot
 
 - :floppy_disk: The Telegram Bot to download videos from YouTube.
 - :pushpin: This is just an Informative Bot.
