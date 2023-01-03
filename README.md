@@ -13,4 +13,4 @@
 
 ![Helper_YouTube_Bot_Info](https://github.com/nikit0ns/Screenshots/blob/master/Helper_YouTube_Bot_Info.png)
 
-![Helper_YouTube_Bot_Info](https://github.com/nikit0ns/Screenshots/blob/master/Helper_YouTube_Bot_Info.png)
+![Helper_YouTube_Bot_Download](https://github.com/nikit0ns/Screenshots/blob/master/Helper_YouTube_Bot_Download.png)
