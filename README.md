@@ -1,4 +1,4 @@
-# Helper_YouTube_Bot - Telegram Bot
+# @Helper_YouTube_Bot - Telegram Bot
 
 - :floppy_disk: The Telegram Bot to download videos from YouTube.
 - :interrobang: You can find information about the video from YouTube.
