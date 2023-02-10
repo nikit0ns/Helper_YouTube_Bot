@@ -9,10 +9,10 @@
 
 # Screenshots
 
-![Helper_YouTube_Bot_Start](https://github.com/nikit0ns/Screenshots/blob/master/Helper_YouTube_Bot_Start.png)
+![Helper_YouTube_Bot_Start](https://github.com/nikit0ns/Helper_YouTube_Bot/blob/master/Screenshots/Helper_YouTube_Bot_Start.png)
 
-![Helper_YouTube_Bot_Info](https://github.com/nikit0ns/Screenshots/blob/master/Helper_YouTube_Bot_Info.png)
+![Helper_YouTube_Bot_Info](https://github.com/nikit0ns/Helper_YouTube_Bot/blob/master/Screenshots/Helper_YouTube_Bot_Info.png)
 
-![Helper_YouTube_Bot_Download](https://github.com/nikit0ns/Screenshots/blob/master/Helper_YouTube_Bot_Download.png)
+![Helper_YouTube_Bot_Download](https://github.com/nikit0ns/Helper_YouTube_Bot/blob/master/Screenshots/Helper_YouTube_Bot_Download.png)
 
-![Helper_YouTube_Bot_Commands](https://github.com/nikit0ns/Screenshots/blob/master/Helper_YouTube_Bot_Commands.png)
+![Helper_YouTube_Bot_Commands](https://github.com/nikit0ns/Helper_YouTube_Bot/blob/master/Screenshots/Helper_YouTube_Bot_Commands.png)
