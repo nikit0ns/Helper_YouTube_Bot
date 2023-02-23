@@ -4,6 +4,7 @@
 - :interrobang: You can find information about the video from YouTube.
 - :books: There is the `'pytube'` library is connected here.
 - :open_file_folder: The Bot has two commands: `/start` , `/help`.
+- :lock: The Telegram Bot Status: Doesn't Work On Hosting.
 
 ---
 
